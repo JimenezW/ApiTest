@@ -1,0 +1,31 @@
+{
+  "name": "todolisapi",
+  "version": "1.0.0",
+  "description": "api de prueba sesion del 21-09-2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimenezW/ApiTest.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Tutorial"
+  ],
+  "author": "walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimenezW/ApiTest/issues"
+  },
+  "homepage": "https://github.com/JimenezW/ApiTest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
